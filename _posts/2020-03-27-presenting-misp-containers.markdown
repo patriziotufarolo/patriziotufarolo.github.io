@@ -13,6 +13,8 @@ tags:
 - cert
 - csirt
 - soc
+- cakeresque
+- cakephp
 - incident handling
 ---
 
