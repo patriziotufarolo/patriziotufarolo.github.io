@@ -23,7 +23,7 @@ How are you doing?
 
 It has been a long time since my last post.
 
-I would like to present you a project I made in the last few days, during this COVID-19 pandemia that is threatening the entire world.
+I would like to present you a project I made in the last few days, during this COVID-19 pandemic that is threatening the entire world.
 
 Here we are! The easiest way to deploy the last version of **MISP**, leveraging the power of containers!
 
