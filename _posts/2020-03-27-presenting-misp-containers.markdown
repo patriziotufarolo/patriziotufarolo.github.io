@@ -64,7 +64,7 @@ Last but not least, the provided docker-compose specifies also the volumes neede
 This image contains all the MISP's enrichment modules and their dependencies.
 
 ## Database - *misp-db*
-This image is a plain mariadb database image that, on first startup, is initialized with MISP's database schema, grabbed from the misp image throygh a multi-stage approach.
+This image is a plain mariadb database image that, on first startup, is initialized with MISP's database schema, grabbed from the misp image through a multi-stage approach.
 
 The provided docker-compose specifies also the volumes needed to guarantee persistence.
 
