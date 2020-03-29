@@ -70,7 +70,7 @@
   {% assign site_rss = site.feed.path %}
 {% endif %}
 {% if site_rss %}
-  <link rel="alternate" href="{{ site_rss }}" title="{{ site.title }}" type="application/atom+xml" />
+  <link rel="alternate" href="{{ site_rss | absolute_url }}" title="{{ site.title }}" type="application/atom+xml" />
 {% endif %}
 
 
