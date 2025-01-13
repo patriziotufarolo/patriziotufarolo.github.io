@@ -3,11 +3,10 @@ layout: page
 type: about
 ---
 
-Cyber security analyst, part-time developer and sys-admin, blogger; graduated in "Information Security" with bachelor in "Computer Systems and Network Security" @ University of Milan.
+I am a cybersecurity analyst, developer, system administrator, blogger.
 
-My passion for IT started when I was seven years old, and I developed my computer skills ever since then.
-As an autodidact, I began my studies with the fundamentals of computer programming in Microsoft environments. 
-Afterwards, I learnt the Unix-like systems, using mainly Linux and BSD, and I developed a considerable interest towards the opensource ethics and point of view.
+My journey into the world of IT began at the age of seven, and I have been developing my technical skills ever since. As a self-taught enthusiast, I started by learning the fundamentals of computer programming in Microsoft environments. Over time, my curiosity led me to explore Unix-like systems, as Linux and BSD.
 
-I lately worked as a consultant in Telecom Italia for NTT DATA as cyber security analyst, performing offensive security activities like vulnerability assessments and infrastructural penetration tests.
-I am currently working as CERT analyst in Banca d'Italia.
+I have a degree in "Information Security" and a Bachelor's in "Computer Systems and Network Security" from the University of Milan.
+
+Currently, I work at the European Central Bank (ECB); however, the content shared on this website reflects my personal views and is in no way connected to or endorsed by my employer.
